@@ -1,0 +1,1 @@
+A collection of data science notebooks completed during my career transition from organic chemistry. Covers pandas, data cleaning, exploratory data analysis, and machine learning fundamentals. Built while completing a postdoctoral fellowship at Chimie ParisTech.
